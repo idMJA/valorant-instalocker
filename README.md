@@ -67,6 +67,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![forthebadge](https://670fa656-01df-442c-9c0a-94011a63f1bf.id.repl.co/svg/build-for-valorant.svg)](https://playvalorant.com/)
 
-Credits: [Pintoso](github.com/pintoso)
+Credits: [Pintoso](https://github.com/pintoso)
 
 Repository: [Agent Picker](https://github.com/pintoso/Agent-Picker)
