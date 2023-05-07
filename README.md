@@ -8,13 +8,13 @@ Automatically picks a selected agent as soon as possible.
 ### DOWNLOAD OPTIONS
 ⚠️Please, PLEASE READ the [FAQ](#faq) before download this app
 
-- #### [❶.EXE](https://github.com/pintoso/Agent-Picker/releases/latest/download/AgentPicker.exe)
+- #### ❶.EXE
 **extra protection for vanguard not to detect AgentPicker as an ahk**
 >✔️Make an exception for the `InstaLock.exe` if your antivirus does not like the file, this is a FALSE positive. 
-([VIRUSTOTAL](https://www.virustotal.com/gui/file/b16bab869527ccafd8c885928012ffbef102175358ce744e751495029da1ce34/detection) scan)
+([VIRUSTOTAL](https://www.virustotal.com/gui/file/cbeed3517c7a6092f3b2c567c71219c7138d76120ed24cb6e09e96ef75d2ec0b/detection) scan)
 
 
-- #### [❷.AHK](https://github.com/pintoso/Agent-Picker/archive/refs/heads/master.zip)
+- #### ❷.AHK
 **need to install [AutoHotkey](https://www.autohotkey.com/download/ahk-v2.exe), extract the Agent Picker files and run `AgentPicker.ahk` as admin**
 
 you can also [compile it yourself](#compiling)
