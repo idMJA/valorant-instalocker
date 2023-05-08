@@ -9,7 +9,7 @@ Automatically picks a selected agent as soon as possible.
 ⚠️Please, PLEASE READ the [FAQ](#faq) before download this app
 
 - #### ❶.EXE
-**extra protection for vanguard not to detect AgentPicker as an ahk**
+**Extra protection for Vanguard not to detect `InstaLock` as an `ahk`**
 >✔️Make an exception for the `InstaLock.exe` if your antivirus does not like the file, this is a FALSE positive. 
 ([VIRUSTOTAL](https://www.virustotal.com/gui/file/cbeed3517c7a6092f3b2c567c71219c7138d76120ed24cb6e09e96ef75d2ec0b/detection) scan)
 
@@ -38,7 +38,7 @@ you can also [compile it yourself](#compiling)
 5. Fill This [Continue Button.ini](Continue%20Button.ini) = XY Continue Button position
 
 Need A Tutorial?
-Comming Soon
+[Click Here](https://youtu.be/Yv-JhFDkZOk0)
 
 ## Compiling
 if you want to compile by yourself for security reasons, follow this step by step to compile correctly in `.exe`
