@@ -32,7 +32,7 @@ you can also [compile it yourself](#compiling)
 # How to configure for your resolution
 
 1. ScreenShoot Your Screen On Agent Selector In Custom Game Or Whatever (please read this. EVERY USERS OR MONITORS ITS NOT SAME SO PLEASE DONT STEAL OTHER IMAGES OR UR PC WILL GOT ERROR CANNOT FIXED)
-2. Go To [This](http://image-coordinates.mj1532.us.to/) Website and select the file that you screenshot in the agent selector to get X and Y
+2. Go To [This](https://pintoso.github.io/imagecoordonline/) Website and select the file that you screenshot in the agent selector to get X and Y
 3. Fill [[X]Agent List.txt]([X]Agent%20List.txt) = X Agents position
 4. Fill [[Y]Agent List.txt]([Y]Agent%20List.txt) = Y Agents position
 5. Fill This [Continue Button.ini](Continue%20Button.ini) = XY Continue Button position
