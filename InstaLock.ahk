@@ -15,8 +15,8 @@ FileInstall, disable.wav, disable.wav
 
 ;----  DEFAULT FILES
 ;
-defaultlist = Astra		:0`nBrimstone	:0`nChamber	:0`nCypher	:0`nFade		:0`nGekko		:0`nHarbor	:0`nJett		:0`nKay/O		:0`nKillJoy	:0`nNeon		:0`nOmen		:0`nPhoenix	:0`nRaze		:0`nReyna		:0`nSage		:0`nSkye		:0`nSova		:0`nViper		:0`nYoru		:0
-defaultlisty = Astra		:0`nBrimstone	:0`nChamber	:0`nCypher	:0`nFade		:0`nGekko		:0`nHarbor	:0`nJett		:0`nKay/O		:0`nKillJoy	:0`nNeon		:0`nOmen		:0`nPhoenix	:0`nRaze		:0`nReyna		:0`nSage		:0`nSkye		:0`nSova		:0`nViper		:0`nYoru		:0
+defaultlist = Astra		:0`nBrimstone	:0`nChamber		:0`nCypher		:0`nDeadlock	:0`nFade		:0`nGekko		:0`nHarbor		:0`nJett		:0`nKay/O		:0`nKillJoy		:0`nNeon		:0`nOmen		:0`nPhoenix		:0`nRaze		:0`nReyna		:0`nSage		:0`nSkye		:0`nSova		:0`nViper		:0`nYoru		:0
+defaultlisty = Astra		:0`nBrimstone	:0`nChamber		:0`nCypher		:0`nDeadlock	:0`nFade		:0`nGekko		:0`nHarbor		:0`nJett		:0`nKay/O		:0`nKillJoy		:0`nNeon		:0`nOmen		:0`nPhoenix		:0`nRaze		:0`nReyna		:0`nSage		:0`nSkye		:0`nSova		:0`nViper		:0`nYoru		:0
 ifnotexist,[X]Agent List.txt
     {
     FileAppend, %defaultlist%, %A_ScriptDir%\[X]Agent List.txt
